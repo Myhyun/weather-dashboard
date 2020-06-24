@@ -25,6 +25,7 @@ $("#search-button").on("click", function () {
             temp: response.list[0].main.temp
         }
 
+        $(".displaycurrentWeather").addClass("card card-body")
         var currentCity = $("<p>");
         currentCity.text(JSON.stringify(mainWeather.cityName) + JSON.stringify(mainWeather.date));
         $(".displaycurrentWeather").append(currentCity);
