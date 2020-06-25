@@ -4,4 +4,4 @@ This application presents users with current weather conditions for cities withi
 
 ### Link to Deployed Project
 
-This project was deployed on [Github] (https://myhyun.github.io/weather-dashboard/).
+This project was deployed on [Github](https://myhyun.github.io/weather-dashboard/).
